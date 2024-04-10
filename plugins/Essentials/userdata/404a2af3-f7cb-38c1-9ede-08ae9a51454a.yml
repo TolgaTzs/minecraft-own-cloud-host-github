@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712687765613
+  login: 1712687542494
+money: '0'
+last-account-name: adaesnn4234
+logoutlocation:
+  world: 4e184297-7517-4abf-9c27-a50462f51d51
+  world-name: world
+  x: -22.69999998807907
+  y: 47.0
+  z: 14.300000011920929
+  yaw: 80.24974060058594
+  pitch: 90.0

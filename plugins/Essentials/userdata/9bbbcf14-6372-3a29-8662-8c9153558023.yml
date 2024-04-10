@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712589510272
+  login: 1712589229676
+money: '0'
+last-account-name: carrotistekanka
+logoutlocation:
+  world: 4e184297-7517-4abf-9c27-a50462f51d51
+  world-name: world
+  x: -118.4402353376247
+  y: 86.12380408587512
+  z: -12.016119193373335
+  yaw: 54.5924072265625
+  pitch: 37.35000991821289

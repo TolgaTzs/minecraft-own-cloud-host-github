@@ -1,1 +1,32 @@
-[{}]
+[
+  {
+    "uuid": "740a6dec-9877-3da9-9999-b22cbe9ba6d9",
+    "name": "Scuola01129",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "e9a36632-72f6-3d62-b6ca-f336fcb1de8b",
+    "name": "Thnad",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "285ee991-ed63-3e7e-affe-bb4fe1987c17",
+    "name": "xDarkUchiha",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "9bbbcf14-6372-3a29-8662-8c9153558023",
+    "name": "carrotistekanka",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "db12b3b7-70b1-32e4-af71-e3b83fc5e15e",
+    "name": "kayisi_reis44",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]

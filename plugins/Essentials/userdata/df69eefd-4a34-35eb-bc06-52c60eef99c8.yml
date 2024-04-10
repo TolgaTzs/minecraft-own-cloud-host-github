@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712606118641
+  login: 1712605952893
+money: '0'
+last-account-name: TolgaTzsYT
+logoutlocation:
+  world: 4e184297-7517-4abf-9c27-a50462f51d51
+  world-name: world
+  x: -37.2876127967069
+  y: 67.0
+  z: 1.5919670101160173
+  yaw: 31.94970703125
+  pitch: 18.149978637695312

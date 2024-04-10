@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712754150565
+  login: 1712754046361
+money: '0'
+last-account-name: MEHMETAGR
+logoutlocation:
+  world: 4e184297-7517-4abf-9c27-a50462f51d51
+  world-name: world
+  x: -6.1908105434448535
+  y: 63.0
+  z: -51.49048195281385
+  yaw: 56.578399658203125
+  pitch: 23.591758728027344
