@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "uuid": "cee7cdec-d9d4-377f-961c-dd5a2e7da00f",
+    "name": "N0TP1",
+    "created": "2024-04-20 11:33:57 +0000",
+    "source": "Server",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  }
+]

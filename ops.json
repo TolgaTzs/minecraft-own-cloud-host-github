@@ -1,1 +1,14 @@
-[{}]
+[
+  {
+    "uuid": "740a6dec-9877-3da9-9999-b22cbe9ba6d9",
+    "name": "Scuola01129",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "df69eefd-4a34-35eb-bc06-52c60eef99c8",
+    "name": "TolgaTzsYT",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
